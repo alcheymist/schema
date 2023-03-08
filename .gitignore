@@ -81,3 +81,4 @@ typings/
 /v/code/*.js
 /v/code/*.xml
 /v/code/package-lock.json
+/v/migration/
