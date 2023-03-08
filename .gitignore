@@ -74,3 +74,10 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+/nbproject/
+/backup/
+/v/code/*.js.map
+/v/code/*.js
+/v/code/*.xml
+/v/code/package-lock.json
